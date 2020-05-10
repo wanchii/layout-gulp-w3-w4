@@ -1,0 +1,12 @@
+<svg width="32" height="32" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="34" width="34" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path stroke="#000000" stroke-opacity="0" id="svg_1" fill="#aa0601" d="m30,0l-28,0c-1.105,0 -2,0.895 -2,2l0,28c0,1.105 0.895,2 2,2l28,0c1.104,0 2,-0.895 2,-2l0,-28c0,-1.105 -0.896,-2 -2,-2zm0,30l-28,0l0,-28l28,0l0,28z"/>
+  <path id="Arrow_Drop_Down_4_" fill-rule="evenodd" fill="#650300" d="m5.060894,20.083894c0,0.564 0.489,1.01 1.044,0.995l19.943,0c0.887,0.024 1.38,-1.07 0.742,-1.702l-9.999,-9.9c-0.394,-0.39 -1.031,-0.376 -1.429,0l-9.991,9.892c-0.19,0.181 -0.31,0.433 -0.31,0.715zm11.016,-8.485l7.566,7.491l-15.133,0l7.567,-7.491z" clip-rule="evenodd"/>
+ </g>
+</svg>
