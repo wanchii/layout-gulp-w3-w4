@@ -1,6 +1,6 @@
 # 第三週RWD響應式+第四週使用gulp
 
-[首頁] (https://wanchii.github.io/layout-gulp-w3-w4/dist/index.html)
+[網頁](https://wanchii.github.io/layout-gulp-w3-w4/dist/index.html)
 
 
 
