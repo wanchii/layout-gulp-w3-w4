@@ -25,13 +25,13 @@ jq選單開關
 系列鏡框classic-  
 內部分頁效果
 
-##### SCSS結構
-@import '_variables.scss'; 放置變數和@mixin
-@import '_reset.scss'; meyerweb css reset
+#### SCSS結構
+@import '_variables.scss'; 放置變數和 @mixin  
+@import '_reset.scss'; meyerweb css reset  
 
-@import '_base.scss'; 放全站設定
-@import '_layout.scss'; header和footer設定
-/*各頁*/
-@import '_index.scss'; 首頁css
-@import '_faq.scss'; FAQ頁面
-@import '_classic.scss';
+@import '_base.scss'; 放全站設定  
+@import '_layout.scss'; header和footer設定  
+/*各頁*/  
+@import '_index.scss'; 首頁css 
+@import '_faq.scss'; FAQ頁面  
+@import '_classic.scss';  
