@@ -10,9 +10,9 @@ SCSS、gulp、jQuery
 ### 網頁使用技巧
 
 響應式多頁板型，斷點主要有  
--PC版1200px
--平板992px
--手機767px&375px
+-PC版1200px  
+-平板992px  
+-手機767px&375px  
 
 首頁index-  
 jq 漢堡選單
@@ -32,6 +32,6 @@ jq選單開關
 @import '_base.scss'; 放全站設定  
 @import '_layout.scss'; header和footer設定  
 /*各頁*/  
-@import '_index.scss'; 首頁css 
-@import '_faq.scss'; FAQ頁面  
-@import '_classic.scss';  
+@import '_index.scss'; 首頁css   
+@import '_faq.scss'; FAQ頁面    
+@import '_classic.scss';    
