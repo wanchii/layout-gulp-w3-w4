@@ -15,9 +15,9 @@ SCSS、gulp、jQuery
 -手機767px&375px  
 
 首頁index-  
-jq 漢堡選單
-jq top & down 效果
-聯名版型效果
+jq 漢堡選單  
+jq top & down 效果  
+聯名版型效果  
 
 常見問題FAQ-  
 jq選單開關
@@ -34,4 +34,4 @@ jq選單開關
 /*各頁*/  
 @import '_index.scss'; 首頁css   
 @import '_faq.scss'; FAQ頁面    
-@import '_classic.scss';    
+@import '_classic.scss'; 系列鏡框   
