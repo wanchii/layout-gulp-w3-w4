@@ -1611,24 +1611,24 @@ a {
       font-size: 16px;
       margin-bottom: 20px; } }
 
-.classic-group {
+.classic-content-group {
   -ms-flex-wrap: wrap;
       flex-wrap: wrap;
   margin-left: -12px;
   margin-right: -12px; }
-  .classic-group > li {
+  .classic-content-group > li {
     padding-right: 12px;
     padding-left: 12px;
     margin-bottom: 104px; }
   @media (max-width: 992px) {
-    .classic-group {
+    .classic-content-group {
       -webkit-box-pack: center;
           -ms-flex-pack: center;
               justify-content: center; }
-      .classic-group > li {
+      .classic-content-group > li {
         margin-bottom: 72px; } }
   @media (max-width: 767px) {
-    .classic-group > li {
+    .classic-content-group > li {
       margin-bottom: 32px; } }
 
 .card-body span {
