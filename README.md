@@ -46,10 +46,10 @@ jq選單開關
 > 原本mr-64px  修改成pl32px pr32px
 
 2) 在平板樣式時，.classic-group > li mb 應該是 8px  
-> 跟多頁的鏡框系列class的classic-group 權重重疊-OK
+> 跟多頁的鏡框系列class的classic-group 權重重疊
 
 3) input 可以更換背景顏色為透明色 transparent，目前看顏色好像不太一樣  
-> OK加了 bg:transparent;-OK
+> 加了 bg:transparent;-OK
 
 4) scss 的部分會盡量避免直接使用標籤，可以開始習慣都寫 class 名稱  
 > 回聽了卡斯柏老師5/6的補充影片，發現老師也有提到這段，下次會注意
