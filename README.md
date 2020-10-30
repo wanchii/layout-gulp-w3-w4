@@ -1,4 +1,4 @@
-# 第三週RWD響應式+第四週使用gulp
+# 切版-眼鏡電商網站
 
 [網頁](https://wanchii.github.io/layout-gulp-w3-w4/dist/index.html)
 
@@ -39,7 +39,7 @@ jq選單開關
 
 ------
 
-#### 作業修改建議
+#### 修改建議
 
 
 1) header 選單的 a 標籤可以藉由 padding 來增加點擊範圍（取代 margin）  
